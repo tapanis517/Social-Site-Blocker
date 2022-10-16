@@ -1,0 +1,17 @@
+ a framework
+for the detection of vehicular accidents is proposed. 
+framework uses Mask R-CNN for object detection and
+an object tracking algorithm  on dashcam videos. The
+chances of an accident happening are decided based on a
+set of anomalies that are determined in a vehicle when it
+overlaps with another vehicle in the footage. 
+
+ A
+key objective is to give a basic yet efficient method for solving
+the problem of vehicular accident detection which can work
+productively and give crucial data to paramedical services and
+concerned authorities immediately. The outlined model is an
+extension of our research conducted in a similar domain but
+on CCTV camera footage [11]. Change of angle of view in
+dashcam poses a new set of challenges and we have modified
+our approach tackling the same.
